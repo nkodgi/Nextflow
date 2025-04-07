@@ -43,7 +43,7 @@ nextflow -version
 Now clone directory to get started:
 
 ```bash
-git clone https://github.gatech.edu/nkodgi3/Nextflow.git
+git clone https://github.com/nkodgi/Nextflow.git
 cd Nextflow/my_pipeline
 nextflow run main.nf -profile test 
 ```
