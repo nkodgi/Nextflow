@@ -12,7 +12,8 @@ in parallel through spades and seqkit!
 
 ## 🧬 Workflow Overview
 
-![image](https://github.gatech.edu/nkodgi3/Nextflow/assets/97635/f81ce00e-2fc0-45c0-b3f6-63b73d026cf8)
+![image](https://github.com/user-attachments/assets/5f87efc3-b6b4-4dd9-9b5a-84c4f7e8e93d)
+
 
 
 The pipeline performs the following steps:
@@ -50,9 +51,10 @@ This runs it on debug mode so you can see if an errors occur!
 
 ##  🛠 Having Problems? Here Are More Debugging Tips!
 
-First of all make sure you have the right repo structure from the download. 
+First of all make sure you have a good clone of this repo. 
 
-![image](https://github.gatech.edu/nkodgi3/Nextflow/assets/97635/2e467572-3d5c-4182-9120-3c219692054b)
+![image](https://github.com/user-attachments/assets/1857bfa2-2fb2-43af-84d7-a1353eb63e4c)
+
 
 If not that's not the problem, here are some Nextflow commands that help with debugging:
 
